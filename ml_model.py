@@ -14,3 +14,5 @@ def model3():
 
 
 print("Model 2 is perfimg best")
+
+print("Model 2 is perfimg best - exercise")
